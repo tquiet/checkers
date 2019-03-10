@@ -1,0 +1,126 @@
+.board{
+    height: 700px;
+    width: 700px;
+    background-image: url(../img/chessboard.jpg);    
+}
+.b_1{
+    position: absolute;
+    top: 82px;
+    left: 142px;
+}
+.b_2{
+    position: absolute;
+    top: 82px;
+    left: 280px;
+}
+.b_3{
+    position: absolute;
+    top: 82px;
+    left: 420px;
+}
+.b_4{
+    position: absolute;
+    top: 82px;
+    left: 558px;
+}
+.b_5{
+    position: absolute;
+    top: 150px;
+    left: 72px;
+}
+.b_6{
+    position: absolute;
+    top: 150px;
+    left: 212px;
+}
+.b_7{
+    position: absolute;
+    top: 150px;
+    left: 350px;
+}
+.b_8{
+    position: absolute;
+    top: 150px;
+    left: 487px;
+}
+.b_9{
+    position: absolute;
+    top: 220px;
+    left: 142px;
+}
+.b_10{
+    position: absolute;
+    top: 290px;
+    left: 350px;
+}
+.b_11{
+    position: absolute;
+    top: 220px;
+    left: 420px;
+}
+.b_12{
+    position: absolute;
+    top: 220px;
+    left: 558px;
+}
+
+.w_1{
+    position: absolute;
+    top: 560px;
+    left: 75px;
+}
+.w_2{
+    position: absolute;
+    top: 560px;
+    left: 212px;
+}
+.w_3{
+    position: absolute;
+    top: 560px;
+    left: 350px;
+}
+.w_4{
+    position: absolute;
+    top: 560px;
+    left: 487px;
+}
+.w_5{
+    position: absolute;
+    top: 495px;
+    left: 142px;
+}
+.w_6{
+    position: absolute;
+    top: 495px;
+    left: 280px;
+}
+.w_7{
+    position: absolute;
+    top: 495px;
+    left: 420px;
+}
+.w_8{
+    position: absolute;
+    top: 495px;
+    left: 558px;
+}
+.w_9{
+    position: absolute;
+    top: 426px;
+    left: 75px;
+}
+.w_10{
+    position: absolute;
+    top: 426px;
+    left: 212px;
+}
+.w_11{
+    position: absolute;
+    top: 360px;
+    left: 280px;
+}
+.w_12{
+    position: absolute;
+    top: 425px;
+    left: 487px;
+}
